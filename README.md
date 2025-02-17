@@ -22,17 +22,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Animations
 
-Here are some animations representing my skills:
-
-![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-![Database Animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-
-## Support Me
-
-If you like my work, consider buying me a coffee:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-donate-yellow)](https://www.buymeacoffee.com/yourusername)
-
-```` ▋
