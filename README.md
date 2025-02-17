@@ -2,9 +2,8 @@
 
 ## About Me
 
-- 👨‍💻 Backend Developer at Xcoders Company.
-- 🌍 Based in [Your Location].
-- 🎓 Studied [Computer Science] at [Mansoura University].
+- 👨‍💻 Backend Developer at Xcoders.
+=- 🎓 Studied Computer Science at Mansoura University.
 - 🛠️ Experienced in PHP, Laravel, HTML, CSS, JavaScript, and Database Management.
 
 ## Get In Touch
