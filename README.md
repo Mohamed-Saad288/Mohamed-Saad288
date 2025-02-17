@@ -3,14 +3,14 @@
 ## About Me
 
 - 👨‍💻 Backend Developer at Xcoders.
-=- 🎓 Studied Computer Science at Mansoura University.
+- 🎓 Studied Computer Science at Mansoura University.
 - 🛠️ Experienced in PHP, Laravel, HTML, CSS, JavaScript, and Database Management.
 
 ## Get In Touch
 
-- 📧 Email: [mohamed.saadd288@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/mohamed-saad-6b7a2a282/]
-- 🐦 Youtube: [https://www.youtube.com/@mohamedsaad5486]
+- 📧 Email: mohamed.saadd288@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-saad-6b7a2a282/
+- 🐦 Youtube: https://www.youtube.com/@mohamedsaad5486
 
 ## Languages and Tools
 
