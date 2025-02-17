@@ -1,14 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
-<h3 align="center">A Backend Developer from Egypt</h3>
+# Hi there, I'm Mohamed-Saad288 👋
 
+## About Me
 
-- 🔭 I am currently a statistics and computer science student
+- 👨‍💻 Backend Developer at Xcoders Company.
+- 🌍 Based in [Your Location].
+- 🎓 Studied [Your Major] at [Your University].
+- 🛠️ Experienced in PHP, Laravel, HTML, CSS, JavaScript, and Database Management.
 
-- 🌱 I’m currently learning **Backend Development**
+## Get In Touch
 
-- 💬 Ask me about **Laravel & PHP**
+- 📧 Email: [mohamed.saadd288@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/mohamed-saad-6b7a2a282/]
+- 🐦 Youtube: [https://www.youtube.com/@mohamedsaad5486]
 
-- 📫 How to reach me **mohamed.saadd288@gmail.com**
+## Languages and Tools
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Animations
 
+Here are some animations representing my skills:
+
+![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Database Animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+
+## Support Me
+
+If you like my work, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-donate-yellow)](https://www.buymeacoffee.com/yourusername)
+
+```` ▋
