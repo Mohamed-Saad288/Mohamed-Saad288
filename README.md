@@ -4,7 +4,7 @@
 
 - 👨‍💻 Backend Developer at Xcoders Company.
 - 🌍 Based in [Your Location].
-- 🎓 Studied [Your Major] at [Your University].
+- 🎓 Studied [Computer Science] at [Mansoura University].
 - 🛠️ Experienced in PHP, Laravel, HTML, CSS, JavaScript, and Database Management.
 
 ## Get In Touch
