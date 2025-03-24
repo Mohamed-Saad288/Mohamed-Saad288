@@ -12,16 +12,6 @@ I’m currently working as a Backend Developer at Xcoders, focusing on backend a
 </div>
 
 ---
-## :bar_chart: GitHub Stats
-<div align="center" style="opacity: 0.8; transition: opacity 1s ease-in;" onmouseover="this.style.opacity='1';" onmouseout="this.style.opacity='0.8';">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Saad288&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_bust=20250324" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mohamed-Saad288&theme=radical&hide_border=true" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Saad288&layout=compact&theme=radical&hide_border=true&cache_bust=20250324" alt="Top Languages" />
-</div>
-
----
 
 ## :mailbox: How to Reach Me
 <div style="opacity: 0.8; transition: opacity 1.5s ease-in-out;" onmouseover="this.style.opacity='1';" onmouseout="this.style.opacity='0.8';">
