@@ -28,12 +28,10 @@ Feel free to reach out via email or connect with me on socials:
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Saad288&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Saad288&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Saad288&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Achievements" />
 </p>
 
 ---
