@@ -30,12 +30,15 @@ Feel free to reach out via email or connect with me on socials:
 
 ## 🏆 GitHub Achievements
 
-- 🏔️ **Arctic Code Vault Contributor**
-- 🦈 **Pull Shark**
-- 🔍 **Pair Extraordinaire**
-- 🧑‍💻 **GitHub Developer Program Member**
-- 🌱 **GitHub Sponsor**
-<!-- Add or remove achievements according to your actual achievements tab -->
+<p align="center">
+  <!-- Pull Shark achievement, earned 4 times -->
+  <img src="![image](https://github.com/user-attachments/assets/981d4cd9-3b4a-4e00-bbae-306f899d9422)" height="80" alt="Pull Shark" title="Pull Shark (x4)" />
+  <!-- Quickdraw achievement -->
+  <img src="![image](https://github.com/user-attachments/assets/b186ec2a-7830-4f99-90dc-6bb501eb6f27)" height="80" alt="Quickdraw" title="Quickdraw" />
+  <!-- YOLO achievement -->
+  <img src="![image](https://github.com/user-attachments/assets/2a77642d-0477-4e47-8627-40a1f1c4ac91)
+" height="80" alt="YOLO" title="YOLO" />
+</p>
 
 ---
 
