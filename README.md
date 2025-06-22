@@ -30,9 +30,12 @@ Feel free to reach out via email or connect with me on socials:
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Saad288&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Achievements" />
-</p>
+- 🏔️ **Arctic Code Vault Contributor**
+- 🦈 **Pull Shark**
+- 🔍 **Pair Extraordinaire**
+- 🧑‍💻 **GitHub Developer Program Member**
+- 🌱 **GitHub Sponsor**
+<!-- Add or remove achievements according to your actual achievements tab -->
 
 ---
 
