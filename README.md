@@ -27,20 +27,3 @@ Feel free to reach out via email or connect with me on socials:
 </p>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <!-- Pull Shark achievement, earned 4 times -->
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="80" alt="Pull Shark" title="Pull Shark (x4)" />
-  <!-- Quickdraw achievement -->
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" height="80" alt="Quickdraw" title="Quickdraw" />
-  <!-- YOLO achievement -->
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" height="80" alt="YOLO" title="YOLO" />
-</p>
-
----
-
-<!--
-Feel free to add featured projects or more sections as your journey grows!
--->
